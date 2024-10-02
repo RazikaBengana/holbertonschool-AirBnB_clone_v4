@@ -47,7 +47,7 @@
 
 <div align="center">
 
-**`AirBnB clone - web dynamic`** project focuses on creating an interactive Flask-based web application that **simulates the core functionality of the AirBnB platform**.
+**`AirBnB clone - web dynamic`** project is the fourth and final version of a four-part progressive implementation focused on creating an interactive Flask-based web application that **simulates the core functionality of the AirBnB platform**.
 <br>
 <br>
 The project, contained within this `web_dynamic` folder, combines `Python` backend scripts for routing and data management with `HTML` templates enhanced by `JavaScript` and `CSS`, enabling users to dynamically search, filter, and view rental properties without full page reloads.
