@@ -908,7 +908,7 @@ A comprehensive Fabric deployment script that:
 
 <br>
 
-**${\color{blue}Razika \space Bengana}$**
+_Razika Bengana_
 
 <br>
 <br>
