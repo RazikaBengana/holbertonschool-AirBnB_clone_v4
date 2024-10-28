@@ -868,7 +868,7 @@ A comprehensive Fabric deployment script that:
 
 <br>
 
-MySQL configuration script for testing that:
+`MySQL` configuration script for testing that:
 
 - Creates database `hbnb_test_db`
 
