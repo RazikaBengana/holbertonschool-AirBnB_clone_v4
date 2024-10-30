@@ -129,7 +129,7 @@ Through hands-on development of core components, we gain practical experience in
 
 <!-- ------------------------------------------------------------------------------------------------- -->
 
-## :memo: Learning objectives
+## :memo: Learning Objectives
 
 <br>
 
@@ -908,7 +908,7 @@ A comprehensive Fabric deployment script that:
 
 <br>
 
-_Razika Bengana_
+<img src="https://img.shields.io/badge/Razika%20Bengana-darkblue" alt="Razika Bengana" width="120">
 
 <br>
 <br>

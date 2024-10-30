@@ -93,7 +93,7 @@ Through hands-on development of core components, we gain practical experience in
 
 <!-- ------------------------------------------------------------------------------------------------- -->
 
-## :memo: Learning objectives
+## :memo: Learning Objectives
 
 <br>
 
@@ -183,7 +183,7 @@ If you clone/fork/whatever a project repository with the same name before the se
 
 <br>
 
-```yaml
+```html
 <head>
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 </head>
@@ -250,7 +250,7 @@ $ sudo pip3 install pathlib2
 
 <br>
 
-```
+```yaml
 # I expose the port 5001 of my vm to the port 5001 on my computer
 config.vm.network :forwarded_port, guest: 5001, host: 5001 
 ```
@@ -314,7 +314,7 @@ config.vm.network :forwarded_port, guest: 5001, host: 5001
 
 <br>
 
-**${\color{blue}Razika \space Bengana}$**
+<img src="https://img.shields.io/badge/Razika%20Bengana-darkblue" alt="Razika Bengana" width="120">
 
 <br>
 <br>
